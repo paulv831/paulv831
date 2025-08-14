@@ -1,4 +1,3 @@
-- BU CS
+- 2025 Computer Science Grad 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have figured out how git hub works and push/pull regularly 
-
+- ⚡ Fun fact: I actually enjoy guthubs complicated but secure proxeds
